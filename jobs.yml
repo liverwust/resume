@@ -1,0 +1,98 @@
+---
+jobs:
+  - company: ASRC Federal IñuTeq
+    location: Mountain View, CA
+    title: Mid-Senior Systems Administrator (Tier 3)
+    dates: Aug 2021 – Oct 2024
+
+    lines:
+      - skills:
+          - virtualization
+          - VMware
+          - design
+
+        alternatives:
+          - line: >
+              Installed a Dell VxRail hyperconverged infrastructure cluster and
+              hardened it in accordance with NASA security controls
+            skills:
+              - controls
+              - compliance
+
+      - line: >
+          Orchestrated three macOS major version upgrades and two MDM
+          migrations across a fleet of ~200 laptops
+        skills:
+          - migration
+
+      - line: >
+          Designed a basic framework for macOS configuration files using Go,
+          shell scripts, and Jamf Pro integrations and so on and forth
+
+      - line: >
+          Assembled a test suite to validate Red Hat Enterprise Linux 7 -> 8
+          upgrades on scientific workstations
+
+      - line: >
+          Served as the final escalation point for macOS and RHEL user tickets;
+          ~900 closed (> 1 per calendar day)
+
+      - line: >
+          Organized work for team of ~8 people using Gantt charts, Kanban
+          boards, and Excel / Power Query
+
+      - line: >
+          Received an Ames Honor Award during 2023; one of 40 recipients among
+          2,500 NASA Ames employees
+
+  - company: SAIC Corporation
+    location: Princeton, NJ
+    title: Systems Administrator (Tier 2)
+    dates: Jan 2018 – Aug 2021
+
+    lines:
+      - line: >
+          Developed Ansible playbooks for Linux desktop provisioning and for
+          Windows server backup configuration
+
+      - line: >
+          Introduced a reproducible-build methodology for new Win10 VDI to
+          replace Win7; also led roll-out to users
+
+      - line: >
+          Researched & fixed Hyper-V issues: unbootable Linux VMs, orphaned
+          HDDs, Spectre/Meltdown mitigations
+
+      - line: >
+          Measured virtual infrastructure I/O capacity by combining native
+          (sar, perfmon) and 3rd-party performance data
+
+      - line: >
+          Coordinated team-wide responses to infrastructure outages and
+          mitigation of security vulnerabilities
+
+      - line: >
+          Supervised monthly patch cycle by assigning computers, auditing
+          results, and updating procedures
+
+      - line: >
+          Organized Tier 1 to deploy laptops, run BIOS updates, and offer
+          “white glove” assistance to users
+
+  - company: Engility Corporation
+    location: Princeton, NJ
+    title: Computer Operator (Tier 1)
+    dates: Jan 2017 – Jan 2018
+
+    lines:
+      - line: >
+          Launched a management & OS deployment solution based on a commercial
+          platform and custom scripts
+
+      - line: >
+          Resolved helpdesk issues spanning many topics: network, Win/Mac/Linux
+          desktop, HPC workflow, accounts
+
+      - line: >
+          Provided technical and logistical (e.g. conference setup) support as
+          the designated IT liaison for VIP customers
